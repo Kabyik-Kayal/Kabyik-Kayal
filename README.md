@@ -30,12 +30,13 @@
 - 🔄 Integrated MLOps pipeline
 - 📊 Real-time analytics
 - 🚀 Automated deployment
-
 ## 📈 GitHub Stats
 
 <p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabyik&show_icons=true&theme=radical"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabyik&layout=compact&theme=radical"/>
+    <a href="https://github.com/kabyik">
+        <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=kabyik&show_icons=true&theme=radical"/>
+        <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabyik&layout=compact&theme=radical"/>
+    </a>
 </p>
 
 ## 🤝 Let's Connect!
