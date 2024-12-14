@@ -1,34 +1,69 @@
 # Hi there, I'm Kabyik! 👋
 
-## 🚀 About Me
-I'm a first-year Data Science and Applications student at IIT Madras, pursuing my passion for **Machine Learning**, **Artificial Intelligence**, and **Data Science**. With a strong foundation in **Python** and libraries like **Pandas**, **NumPy**, and **Matplotlib**, I'm constantly exploring the power of data to solve real-world problems.
+Welcome to my GitHub profile! I'm an **Aspiring Data Scientist** based in **Kolkata**, currently pursuing my **1st year in the IIT Madras BS Degree program**. 
 
-## 💡 What I Do
-- 🌟 **Data Science Projects**: I've worked on various projects including **Logistic Regression** to predict Diabetes and **Linear Regression** for predicting asteroid mass. I love applying statistical models to create meaningful insights from complex datasets.
-- 🤖 **Machine Learning Enthusiast**: I'm passionate about Machine Learning and AI, and I’m always looking to deepen my understanding through hands-on projects.
-- 💻 **Programming Skills**: Python, Pandas, NumPy, Matplotlib, Scikit-learn, and more!
+---
 
-## 🎯 Goals
-- 🏆 In the next 6 months, I'm aiming to secure a **Data Science role** to further develop my skills and gain hands-on industry experience.
-- 🎓 Long-term, I aspire to work for **Google** and make impactful contributions to the tech world.
-- 🌱 I'm also working on a **social good project** to bring innovation with government support for the betterment of society.
+## 🌟 About Me
 
-## ⚽ Hobbies
-When I'm not diving into data, you can find me:
-- Kicking around a football ⚽
-- Playing video games 🎮
-- Listening to music 🎵
+- 🔭 **Current Focus**: Learning MLOps and applying it to real-world projects.
+- 🎓 **Education**: IIT Madras, B.S. in Data Science.
+- 🌱 **Interests**: Nature Photography, Gaming, and Music.
 
-## 🔗 Connect with Me
-- [LinkedIn](http://linkedin.com/in/kabyik-kayal)
+---
+
+## 🚀 My Key Project
+
+### [CLTV Prediction Project](#)
+- An end-to-end project focusing on **Customer Lifecycle Management** with **MLOps integration**.
+- Technologies: **Python** and **ZenML**.
+- Features include real-time insights and automated deployment pipelines.
+
+---
+
+## 🛠️ Tools and Technologies
+
+- **Programming Languages**: Python
+- **MLOps Frameworks**: ZenML
+
+---
+
+## 📂 My Repositories
+
+Here are some of my public repositories:
+
+- [CLTV Prediction Project](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps.git) - An end-to-end Customer Lifecycle Management platform.
+
+Feel free to explore more on my GitHub profile!
+
+---
+
+## 🤝 Collaboration
+
+I'm open to collaborating on exciting **Machine Learning** and **MLOps** projects. Let's build something cool together!
+
+---
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/kabyik-kayal/)
+- [Email](scientisk001@gmail.com)
 - [Twitter](https://x.com/KabyikKayal)
-- [Portfolio](https://sites.google.com/view/kabyik-kayal/home)
 
-## 📊 Featured Projects
-### 🌍 Meteorite Classification
-- Developed a **Logistic Regression model** to predict Diabetes of a patient using Pima's dataset.
-  
-### 🪐 Asteroid Mass Prediction
-- Built a **Linear Regression model** to predict the mass of asteroids, utilizing NASA's open dataset.
+---
 
-Feel free to check out my repositories and let's collaborate on exciting projects!
+## ✨ Fun Quote
+
+> "The best way to predict the future is to invent it." - Alan Kay
+
+---
+
+## 🌈 GitHub Stats
+
+![Kabyik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabyik&show_icons=true&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabyik&layout=compact&theme=radical)
+
+---
+
+Thanks for stopping by! Let's connect and create something amazing. 😊
