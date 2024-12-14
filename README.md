@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://raw.githubusercontent.com/gist/TheWizardOfOsmium/fb74c55a70726f4e76b72e903ec4c020/raw/e85666c924184931cb4ea5eefb5e4d8c6ebc6d05/ai-background.gif" width="100%" height="300">
+    <img src="https://private-user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyMDM5MzEsIm5iZiI6MTczNDIwMzYzMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NDAtODA3Mjg4MjAtZTA2Yi00Zjk2LTljOWUtOWRmNDZmMGNjMGE1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE5MTM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTMzMjM4NjkzMGU3N2JjNGE3YTc2ZWI2M2RlZTc2MTQ1NTEwMTlhNzk0MzViYjJiODA2NDRkZjA4MTkwZDk4ZjMmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.2gF-BGYPeX3dchHs8ALSFBKsLgrChD3J6NDXwrT2Kpc" width="100%" height="300">
 </div>
 
 # Hi there, I'm Kabyik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
