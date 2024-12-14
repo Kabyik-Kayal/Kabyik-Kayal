@@ -46,7 +46,7 @@
 <h2>📈 GitHub Analytics</h2>
 
 <div align="center">
-    <a href="https://github.com/kabyik">
+    <a href="https://github.com/Kabyik-Kayal">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     </a>
 </div>
