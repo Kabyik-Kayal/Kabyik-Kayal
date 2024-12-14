@@ -20,12 +20,13 @@
 - 🎮 Gaming enthusiast
 - 🎵 Music lover
 
-## 🛠️ Tech Stack
+## 🛠 Tech Stack
 
 <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=numpy&logoColor=white" alt="MLOps"/>
-    <img src="https://img.shields.io/badge/ZenML-000000?style=for-the-badge&logo=apache&logoColor=white" alt="ZenML"/>
+    <img src="https://camo.githubusercontent.com/b1dcbf1c23a05137ae7c7fdf544082550382791048ee360022c288b87f022d6d/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4c4d7439363338644f38646674416a74636f2f3230302e77656270" />
+    <img src="https://camo.githubusercontent.com/a081916054e9c455c6a9c35e040a2a4a6202a5baeddb28d010fd607bb0cd1d1b/68747470733a2f2f692e67697068792e636f6d2f6d656469612f49647941514a564e326b56504e55726f6a4d2f3230302e77656270"/>
+    <img src="https://camo.githubusercontent.com/95ba85a45e80fc7ac6f84a1910494b774d3ec416bcd135db38dbc9e860681365/68747470733a2f2f692e67697068792e636f6d2f6d656469612f4b7a4a6b7a6a676766474e355079366e6b542f3230302e77656270"/>
+    <img src="https://private-user-images.githubusercontent.com/74038190/238200433-3fb2cdf6-8920-462e-87a4-95af376418aa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyMDM5MzEsIm5iZiI6MTczNDIwMzYzMSwicGF0aCI6Ii83NDAzODE5MC8yMzgyMDA0MzMtM2ZiMmNkZjYtODkyMC00NjJlLTg3YTQtOTVhZjM3NjQxOGFhLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE5MTM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTc0MDgyYWIwN2I3N2RkODM1YzI4MmRhZDk3MDIxOTBjYjE0NjI5NTUyZDkyNDU5M2ZlM2JmNjU4NDUyNWI4MTYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.3bxNCGjGqBVgBgkUetZTxR-uEkcFRM42rvNLxY3ioZk"/>
 </p>
 
 ## 🌟 Featured Project
@@ -47,7 +48,7 @@
 ## 🤝 Let's Connect!
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/kabyik-kayal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://www.linkedin.com/in/kabyik-kayal/"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"/></a>
     <a href="mailto:scientisk001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
     <a href="https://x.com/KabyikKayal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 </p>
