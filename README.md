@@ -1,69 +1,55 @@
-# Hi there, I'm Kabyik! 👋
+# Hi there, I'm Kabyik! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
-Welcome to my GitHub profile! I'm an **Aspiring Data Scientist** based in **Kolkata**, currently pursuing my **1st year in the IIT Madras BS Degree program**. 
+<p align="center">
+    <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;IIT+Madras+BS+Student;MLOps+Enthusiast;Always+learning+new+things"></a>
+</p>
 
----
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About Me
 
-## 🌟 About Me
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-- 🔭 **Current Focus**: Learning MLOps and applying it to real-world projects.
-- 🎓 **Education**: IIT Madras, B.S. in Data Science.
-- 🌱 **Interests**: Nature Photography, Gaming, and Music.
+- 🎓 Pursuing BS in Data Science at **IIT Madras**
+- 🌱 Currently mastering **MLOps** and its real-world applications
+- 🔭 Working on an end-to-end **Data Science Projects**
+- 📸 Love capturing nature through my lens
+- 🎮 Gaming enthusiast
+- 🎵 Music lover
 
----
+## 🛠️ Tech Stack
 
-## 🚀 My Key Project
+<p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/MLOps-FF6F61?style=for-the-badge&logo=numpy&logoColor=white" alt="MLOps"/>
+    <img src="https://img.shields.io/badge/ZenML-000000?style=for-the-badge&logo=apache&logoColor=white" alt="ZenML"/>
+</p>
 
-### [CLTV Prediction Project](#)
-- An end-to-end project focusing on **Customer Lifecycle Management** with **MLOps integration**.
-- Technologies: **Python** and **ZenML**.
-- Features include real-time insights and automated deployment pipelines.
+## 🌟 Featured Project
 
----
+### [CLTV Prediction Project](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps.git)
+- 🎯 End-to-end Customer Lifecycle Management
+- 🔄 Integrated MLOps pipeline
+- 📊 Real-time analytics
+- 🚀 Automated deployment
 
-## 🛠️ Tools and Technologies
+## 📈 GitHub Stats
 
-- **Programming Languages**: Python
-- **MLOps Frameworks**: ZenML
+<p align="center">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=kabyik&show_icons=true&theme=radical"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kabyik&layout=compact&theme=radical"/>
+</p>
 
----
+## 🤝 Let's Connect!
 
-## 📂 My Repositories
-
-Here are some of my public repositories:
-
-- [CLTV Prediction Project](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps.git) - An end-to-end Customer Lifecycle Management platform.
-
-Feel free to explore more on my GitHub profile!
-
----
-
-## 🤝 Collaboration
-
-I'm open to collaborating on exciting **Machine Learning** and **MLOps** projects. Let's build something cool together!
-
----
-
-## 📫 How to Reach Me
-
-- [LinkedIn](https://www.linkedin.com/in/kabyik-kayal/)
-- [Email](scientisk001@gmail.com)
-- [Twitter](https://x.com/KabyikKayal)
+<p align="center">
+    <a href="https://www.linkedin.com/in/kabyik-kayal/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="mailto:scientisk001@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://x.com/KabyikKayal"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+</p>
 
 ---
 
-## ✨ Fun Quote
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=kabyik&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+</p>
 
-> "The best way to predict the future is to invent it." - Alan Kay
-
----
-
-## 🌈 GitHub Stats
-
-![Kabyik's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kabyik&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kabyik&layout=compact&theme=radical)
-
----
-
-Thanks for stopping by! Let's connect and create something amazing. 😊
+> "The best way to predict the future is to create it." - Peter Drucker
