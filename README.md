@@ -38,7 +38,7 @@
 
 ## 📈 GitHub Stats
 
-<p align="Left">
+<p align="Center">
     <a href="https://github.com/kabyik">
         <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=radical"/>
     </a>
