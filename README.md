@@ -59,10 +59,10 @@
     <a href="https://x.com/KabyikKayal"><img src="https://private-user-images.githubusercontent.com/74038190/241765460-cc4fe88c-7f7a-41d8-b449-34b7a178c1c6.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzQyMDM5MzEsIm5iZiI6MTczNDIwMzYzMSwicGF0aCI6Ii83NDAzODE5MC8yNDE3NjU0NjAtY2M0ZmU4OGMtN2Y3YS00MWQ4LWI0NDktMzRiN2ExNzhjMWM2LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMTQlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjE0VDE5MTM1MVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTFhMmVkZWNlM2I4MzM0NGFkNTA0ZDlhOGQxOWMxZjYwZWQxNWRhMmMwNjEwNWMyYWMwYTBlZjY1MmE5MDNjODUmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.sM2suEWfBAjGn7_H4MBrJBab1Ncsp2OYQzaElxUSC9U" width="100"/></a>
 </div>
 
-<div align="center">
-    <img src="https://komarev.com/ghpvc/?username=Kabyik-Kayal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
-</div>
-
 <p align="center">
     <i>"The best way to predict the future is to create it."</i> - Peter Drucker
 </p>
+
+<div align="center">
+    <img src="https://komarev.com/ghpvc/?username=Kabyik-Kayal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
+</div>
