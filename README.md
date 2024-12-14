@@ -1,4 +1,4 @@
-# Hi there, I'm Kabyik! 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+# Hi there, I'm Kabyik! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
 
 <div align="center">
     <img src="https://raw.githubusercontent.com/gist/TheWizardOfOsmium/fb74c55a70726f4e76b72e903ec4c020/raw/e85666c924184931cb4ea5eefb5e4d8c6ebc6d05/ai-background.gif" width="100%" height="300">
