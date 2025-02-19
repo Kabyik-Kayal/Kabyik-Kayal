@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="/Assets/banner.gif" width="100%" height="250">
+    <img src="/Assets/banner.png" width="100%" height="250">
 </div>
 
 <h1 align="center">
@@ -8,7 +8,7 @@
 
 <p align="center">
     <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7D794&size=25&center=true&vCenter=true&width=600&height=100&lines=Aspiring+Data+Scientist;IIT+Madras+BS+Student;MLOps+Enthusiast;Always+learning+new+things">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=%23F7D794&size=25&center=true&vCenter=true&width=600&height=100&lines=Data+Scientist;IIT+Madras+BS+Student;MLOps+Engineer;Always+learning+new+things">
     </a>
 </p>
 
