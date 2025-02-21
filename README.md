@@ -49,7 +49,10 @@
 
 <div align="center">
     <a href="https://github.com/Kabyik-Kayal">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+    </a>
+    <a href="https://github.com/Kabyik-Kayal">
+        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kabyik-Kayal&theme=tokyonight" alt="GitHub Streak">
     </a>
 </div>
 
