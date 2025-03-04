@@ -82,6 +82,13 @@
 
 <h2>🌟 Latest Project</h2>
 
+### [Chicken Disease Classifier](https://github.com/Kabyik-Kayal/Chicken-Disease-Classification)
+> Deep learning solution for poultry health monitoring
+- 🧠 TensorFlow & Keras-based image classifier
+- 🔄 Comprehensive MLOps workflow
+- ⚙️ CI/CD with GitHub Actions
+- 🚀 Automated deployment to AWS
+
 ### [CLTV Prediction MLOps](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps.git)
 > An innovative approach to Customer Lifetime Value Prediction
 - 🎯 End-to-end implementation
