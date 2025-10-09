@@ -80,21 +80,28 @@
     </tr>
 </table>
 
-<h2>🌟 Latest Project</h2>
+<h2>🌟 Latest Projects</h2>
 
-### [Chicken Disease Classifier](https://github.com/Kabyik-Kayal/Chicken-Disease-Classification)
-> Deep learning solution for poultry health monitoring
-- 🧠 TensorFlow & Keras-based image classifier
-- 🔄 Comprehensive MLOps workflow
-- ⚙️ CI/CD with GitHub Actions
-- 🚀 Automated deployment to AWS
+### [CLTV Prediction MLOps](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps) | [🚀 Live Demo](https://customer-lifetime-value-prediction-mlops.onrender.com/)
+> Predicting Customer Lifetime Value using ZenML and MLOps best practices
+- 🎯 XGBoost Regressor for CLTV prediction
+- 🔄 ZenML pipeline with MLflow tracking
+- 📊 Interactive Flask UI for predictions
+- 🚀 Deployed on Render
 
-### [CLTV Prediction MLOps](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps.git)
-> An innovative approach to Customer Lifetime Value Prediction
-- 🎯 End-to-end implementation
-- 🔄 Robust MLOps pipeline
-- 📊 Advanced analytics
-- 🚀 Automated deployment
+### [Anime Recommendation App](https://github.com/Kabyik-Kayal/Anime-Recommendation-App) | [🚀 Live Demo](http://34.69.86.161/)
+> Hybrid recommendation system for personalized anime suggestions
+- 🧠 Content-based & collaborative filtering
+- 🔄 Complete MLOps pipeline with Jenkins
+- 📦 Containerized with Docker & deployed on GKE
+- 🚀 Automated CI/CD deployment
+
+### [Personal Portfolio](https://github.com/Kabyik-Kayal/Kabyik-Kayal.github.io) | [🚀 Live Demo](https://www.kabyik.me)
+> Professional portfolio website showcasing my work
+- 💼 Clean and modern design
+- 📱 Responsive layout
+- 🎨 Built with HTML, CSS, and JavaScript
+- 🚀 Deployed on GitHub Pages
 
 <h2>📈 GitHub Analytics</h2>
 
