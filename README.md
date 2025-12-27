@@ -103,26 +103,12 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
 - Detailed metrics on teaching and resource sharing
 - Pure Python implementation (no external dependencies)
 
-### [Booker](https://github.com/Kabyik-Kayal/Booker)
-> Apple Books-inspired e-book reader for desktop
-- EPUB & PDF support with two-page spread layout
-- Library management with progress tracking
-- Modern UI built with CustomTkinter
-- SQLite database for efficient book management
-
 ### [Localify](https://github.com/Kabyik-Kayal/Localify---Local-Music-Player)
 > Spotify-like desktop player for local music files
 - Folder-as-playlist model with recursive scanning
 - Elegant, responsive three-panel dark UI
 - Supports MP3, WAV, FLAC, OGG, M4A
 - Cross-platform support (Windows/Linux/macOS)
-
-### [Guns Object Detection System](https://github.com/Kabyik-Kayal/Guns-Object-Detection-System-MLOPs)
-> End-to-end MLOps solution for firearm detection
-- Faster R-CNN with ResNet-50 backbone
-- DVC for experiment tracking and reproducibility
-- FastAPI backend with a modern web interface
-- Fully containerized with Docker
 
 ### [Anime Recommendation System](https://github.com/Kabyik-Kayal/Anime-Recommendation-App)
 > Personalized anime suggestions using hybrid filtering
@@ -135,10 +121,10 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
 
 <div align="center">
     <a href="https://github.com/Kabyik-Kayal">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
+        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats">
     </a>
     <a href="https://github.com/Kabyik-Kayal">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyik-Kayal&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyik-Kayal&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages">
     </a>
     <br>
     <a href="https://github.com/Kabyik-Kayal">
