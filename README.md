@@ -36,7 +36,7 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
             <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
             <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
-            <img src="https://img.shields.io/badge/LLMs-FFD21E?style=flat&logo=huggingface&logoColor=black" />
+            <img src="https://img.shields.io/badge/HuggingFace-000000?style=flat&logo=huggingface&logoColor=FFD21E" />
         </td>
     </tr>
     <tr>
