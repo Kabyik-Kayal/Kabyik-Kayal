@@ -96,19 +96,12 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
 - End-to-end data preparation pipeline
 - Local LLM deployment
 
-### [Whatsapp Chat Analyzer](https://github.com/Kabyik-Kayal/Whatsapp_Chat_Analyzer)
-> Quality-based analysis for WhatsApp group conversations
-- Ranks members based on contribution quality
-- Smart spam detection and Hinglish support
-- Detailed metrics on teaching and resource sharing
-- Pure Python implementation (no external dependencies)
-
-### [Localify](https://github.com/Kabyik-Kayal/Localify---Local-Music-Player)
-> Spotify-like desktop player for local music files
-- Folder-as-playlist model with recursive scanning
-- Elegant, responsive three-panel dark UI
-- Supports MP3, WAV, FLAC, OGG, M4A
-- Cross-platform support (Windows/Linux/macOS)
+### [Supa Voice Cloner](https://github.com/Kabyik-Kayal/SUPA_VOICE_CLONER)
+> Transform text into speech with your own voice signature
+- Voice cloning from short audio samples
+- Multi-language support and high-quality synthesis
+- User-friendly web interface and REST API
+- Docker containerized deployment
 
 ### [Anime Recommendation System](https://github.com/Kabyik-Kayal/Anime-Recommendation-App)
 > Personalized anime suggestions using hybrid filtering
@@ -117,16 +110,16 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
 - Scalable deployment on Google Kubernetes Engine (GKE)
 - Experiment tracking with Comet ML and DVC for data versioning
 
+### [Whatsapp Chat Analyzer](https://github.com/Kabyik-Kayal/Whatsapp_Chat_Analyzer)
+> Quality-based analysis for WhatsApp group conversations
+- Ranks members based on contribution quality
+- Smart spam detection and Hinglish support
+- Detailed metrics on teaching and resource sharing
+- Pure Python implementation (no external dependencies)
+
 <h2>GitHub Analytics</h2>
 
 <div align="center">
-    <a href="https://github.com/Kabyik-Kayal">
-        <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true" alt="GitHub Stats">
-    </a>
-    <a href="https://github.com/Kabyik-Kayal">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyik-Kayal&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages">
-    </a>
-    <br>
     <a href="https://github.com/Kabyik-Kayal">
         <img height="180" src="https://streak-stats.demolab.com/?user=Kabyik-Kayal&theme=tokyonight" alt="GitHub Streak">
     </a>
