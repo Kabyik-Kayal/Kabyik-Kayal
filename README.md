@@ -18,14 +18,9 @@
 
 <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 
-- 🎓 Pursuing BS in Data Science at **IIT Madras**
-- 🌱 Currently mastering **MLOps** and its real-world applications
-- 🔭 Working on end-to-end **Data Science Projects**
-- 📸 Passionate about nature photography
-- 🎮 Gaming enthusiast
-- 🎵 Music aficionado
+Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'm passionate about MLOps and love building end-to-end data science projects that make a real impact. Outside of coding, I enjoy capturing the beauty of nature through photography, unwinding with video games, and immersing myself in music.
 
-<h2>🛠️ Tech Stack</h2>
+<h2>Tech Stack</h2>
 
 <table align="center">
     <tr>
@@ -33,88 +28,132 @@
         <td align="center"><b>Technologies</b></td>
     </tr>
     <tr>
-        <td align="center">📊 ML/DL</td>
+        <td align="center">ML/DL</td>
         <td>
             <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" />
             <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" />
+            <img src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" />
             <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white" />
             <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas&logoColor=white" />
+            <img src="https://img.shields.io/badge/LLMs-FFD21E?style=flat&logo=huggingface&logoColor=black" />
         </td>
     </tr>
     <tr>
-        <td align="center">🚀 MLOps</td>
+        <td align="center">MLOps</td>
         <td>
             <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" />
             <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white" />
+            <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" />
             <img src="https://img.shields.io/badge/MLflow-0194E2?style=flat&logo=mlflow&logoColor=white" />
             <img src="https://img.shields.io/badge/DVC-13ADC7?style=flat&logo=dvc&logoColor=white" />
+            <img src="https://img.shields.io/badge/Comet_ML-3B00B9?style=flat&logo=comet&logoColor=white" />
             <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
             <img src="https://img.shields.io/badge/ZenML-FF6B6B?style=flat&logo=z&logoColor=white" />
         </td>
     </tr>
     <tr>
-        <td align="center">💾 Databases</td>
+        <td align="center">Databases</td>
         <td>
             <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white" />
             <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" />
+            <img src="https://img.shields.io/badge/SQLite-07405E?style=flat&logo=sqlite&logoColor=white" />
         </td>
     </tr>
     <tr>
-        <td align="center">🛠️ Development</td>
+        <td align="center">Development</td>
         <td>
             <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
-            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+            <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" />
+            <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" />
             <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" />
+            <img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" />
+            <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
+            <img src="https://img.shields.io/badge/Intel_Arc-0071C5?style=flat&logo=intel&logoColor=white" />
+            <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
         </td>
     </tr>
     <tr>
-        <td align="center">📊 Visualization</td>
+        <td align="center">Visualization</td>
         <td>
+            <img src="https://img.shields.io/badge/Matplotlib-ffffff?style=flat&logo=matplotlib&logoColor=black" />
+            <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat&logo=python&logoColor=white" />
             <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white" />
             <img src="https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black" />
             <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white" />
             <img src="https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white" />
+            <img src="https://img.shields.io/badge/CustomTkinter-000000?style=flat&logo=python&logoColor=white" />
         </td>
     </tr>
 </table>
 
-<h2>🌟 Latest Project</h2>
+<h2>Latest Projects</h2>
 
-### [Chicken Disease Classifier](https://github.com/Kabyik-Kayal/Chicken-Disease-Classification)
-> Deep learning solution for poultry health monitoring
-- 🧠 TensorFlow & Keras-based image classifier
-- 🔄 Comprehensive MLOps workflow
-- ⚙️ CI/CD with GitHub Actions
-- 🚀 Automated deployment to AWS
+### [UnArxiv](https://github.com/Kabyik-Kayal/UnArxiv)
+> Simplifying research paper abstracts with Qwen 2.5 3B
+- Finetuning project for research simplification
+- Optimized for Intel Arc GPUs
+- End-to-end data preparation pipeline
+- Local LLM deployment
 
-### [CLTV Prediction MLOps](https://github.com/Kabyik-Kayal/Customer-Lifetime-Value-Prediction-MLOps.git)
-> An innovative approach to Customer Lifetime Value Prediction
-- 🎯 End-to-end implementation
-- 🔄 Robust MLOps pipeline
-- 📊 Advanced analytics
-- 🚀 Automated deployment
+### [Whatsapp Chat Analyzer](https://github.com/Kabyik-Kayal/Whatsapp_Chat_Analyzer)
+> Quality-based analysis for WhatsApp group conversations
+- Ranks members based on contribution quality
+- Smart spam detection and Hinglish support
+- Detailed metrics on teaching and resource sharing
+- Pure Python implementation (no external dependencies)
 
-<h2>📈 GitHub Analytics</h2>
+### [Booker](https://github.com/Kabyik-Kayal/Booker)
+> Apple Books-inspired e-book reader for desktop
+- EPUB & PDF support with two-page spread layout
+- Library management with progress tracking
+- Modern UI built with CustomTkinter
+- SQLite database for efficient book management
+
+### [Localify](https://github.com/Kabyik-Kayal/Localify---Local-Music-Player)
+> Spotify-like desktop player for local music files
+- Folder-as-playlist model with recursive scanning
+- Elegant, responsive three-panel dark UI
+- Supports MP3, WAV, FLAC, OGG, M4A
+- Cross-platform support (Windows/Linux/macOS)
+
+### [Guns Object Detection System](https://github.com/Kabyik-Kayal/Guns-Object-Detection-System-MLOPs)
+> End-to-end MLOps solution for firearm detection
+- Faster R-CNN with ResNet-50 backbone
+- DVC for experiment tracking and reproducibility
+- FastAPI backend with a modern web interface
+- Fully containerized with Docker
+
+### [Anime Recommendation System](https://github.com/Kabyik-Kayal/Anime-Recommendation-App)
+> Personalized anime suggestions using hybrid filtering
+- Hybrid strategy: Content-based & Collaborative filtering
+- Automated CI/CD pipeline with Jenkins & Docker
+- Scalable deployment on Google Kubernetes Engine (GKE)
+- Experiment tracking with Comet ML and DVC for data versioning
+
+<h2>GitHub Analytics</h2>
 
 <div align="center">
     <a href="https://github.com/Kabyik-Kayal">
         <img height="180" src="https://github-readme-stats.vercel.app/api?username=Kabyik-Kayal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats">
     </a>
     <a href="https://github.com/Kabyik-Kayal">
-        <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=Kabyik-Kayal&theme=tokyonight" alt="GitHub Streak">
+        <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kabyik-Kayal&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages">
+    </a>
+    <br>
+    <a href="https://github.com/Kabyik-Kayal">
+        <img height="180" src="https://streak-stats.demolab.com/?user=Kabyik-Kayal&theme=tokyonight" alt="GitHub Streak">
     </a>
 </div>
 
-<h2>🤝 Connect With Me</h2>
+<h2>Connect With Me</h2>
 
 <div align="center">
     <a href="https://www.linkedin.com/in/kabyik-kayal/"><img src="/Assets/Linkedin.gif" width="100"/></a>
     <a href="mailto:scientisk001@gmail.com"><img src="/Assets/Gmail.gif" width="100"/></a>
-    <a href="https://x.com/KabyikKayal"><img src="/Assets/Twitter.gif" width="100"/></a>
+    <a href="https://x.com/Screwedmind_69"><img src="/Assets/Twitter.gif" width="100"/></a>
 <div align="center">
-    <i>"The best way to predict the future is to create it."</i> - Peter Drucker
+    <i>"A book must be the axe for the frozen sea within us."</i> - Franz Kafka
 </div>
     <img src="https://komarev.com/ghpvc/?username=Kabyik-Kayal&label=Profile%20views&color=0e75b6&style=flat" alt="profile-views"/>
 </div>
