@@ -87,36 +87,6 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
     </tr>
 </table>
 
-<h2>Latest Projects</h2>
-
-### [UnArxiv](https://github.com/Kabyik-Kayal/UnArxiv)
-> Simplifying research paper abstracts with Qwen 2.5 3B
-- Finetuning project for research simplification
-- Optimized for Intel Arc GPUs
-- End-to-end data preparation pipeline
-- Local LLM deployment
-
-### [Supa Voice Cloner](https://github.com/Kabyik-Kayal/SUPA_VOICE_CLONER)
-> Transform text into speech with your own voice signature
-- Voice cloning from short audio samples
-- Multi-language support and high-quality synthesis
-- User-friendly web interface and REST API
-- Docker containerized deployment
-
-### [Anime Recommendation System](https://github.com/Kabyik-Kayal/Anime-Recommendation-App)
-> Personalized anime suggestions using hybrid filtering
-- Hybrid strategy: Content-based & Collaborative filtering
-- Automated CI/CD pipeline with Jenkins & Docker
-- Scalable deployment on Google Kubernetes Engine (GKE)
-- Experiment tracking with Comet ML and DVC for data versioning
-
-### [Whatsapp Chat Analyzer](https://github.com/Kabyik-Kayal/Whatsapp_Chat_Analyzer)
-> Quality-based analysis for WhatsApp group conversations
-- Ranks members based on contribution quality
-- Smart spam detection and Hinglish support
-- Detailed metrics on teaching and resource sharing
-- Pure Python implementation (no external dependencies)
-
 <h2>GitHub Analytics</h2>
 
 <div align="center">
