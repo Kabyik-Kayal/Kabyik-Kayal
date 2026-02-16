@@ -99,7 +99,7 @@ Hi there! I'm Kabyik, currently pursuing my BS in Data Science at IIT Madras. I'
 
 <div align="center">
     <a href="https://www.linkedin.com/in/kabyik-kayal/"><img src="/Assets/Linkedin.gif" width="100"/></a>
-    <a href="mailto:scientisk001@gmail.com"><img src="/Assets/Gmail.gif" width="100"/></a>
+    <a href="mailto:mail@kabyik.dev"><img src="/Assets/Gmail.gif" width="100"/></a>
     <a href="https://x.com/Screwedmind_69"><img src="/Assets/Twitter.gif" width="100"/></a>
 <div align="center">
     <i>"A book must be the axe for the frozen sea within us."</i> - Franz Kafka
