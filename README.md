@@ -15,9 +15,6 @@ These machines are quite beautiful, the more I try to understand them, the more 
 While the world is moving towards AI in an unimaginable pace, I am also completing my BS in Data Science from IIT Madras, which is a hybrid degree. Met some really cool people, learned a lot of things and made awesome friends.
 </p>
 <p align="center">
-Then finally, got a small internship (huge for me) at a company called "NextGenAI Solutions", my boss is a really cool guy, and the work is something I am enjoying a lot, even though I won't hesitate for a pay raise :)
-</p>
-<p align="center">
 Ahhh, enough yapping already, thanks for reading this far, either you are really interested in me or you are just a bot, either way, I am glad to have you here, and I hope we can connect and share our thoughts on AI, System Design, or anything else that comes to our minds.
 </p>
 
